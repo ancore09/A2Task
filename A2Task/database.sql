@@ -1,4 +1,4 @@
-create database A2TestDb;
+create database A2TestDB;
 go
 use A2TestDB;
 go
